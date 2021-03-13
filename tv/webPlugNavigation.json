@@ -1636,6 +1636,14 @@
       }
     },
     {
+      "name": "低端影视(网址播放)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://ddrk.me/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "简影(网址播放)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
